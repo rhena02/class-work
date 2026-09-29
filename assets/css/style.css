@@ -1,0 +1,30 @@
+.heading{
+    color: ivory;
+    background-color: black;
+}
+.paragraph{
+    color: ivory;
+    background-color: blue;
+}
+.concentration{
+    color: ivory;
+    background-color: blue;
+}
+.heading, .paragraph, .concentration{
+    text-align: center;
+}
+.about{
+    color: ivory;
+    background-color: blue;
+}
+.skills{
+    color: ivory;
+    background-color: blue; 
+}
+.specialty{
+    color: ivory;
+    background-color: blue;
+}
+.about, .skills, .specialty{
+    text-align: center;
+}
