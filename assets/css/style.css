@@ -10,6 +10,9 @@
     color: ivory;
     background-color: blue;
 }
+.concentration{
+    list-style: none;
+}
 .heading, .paragraph, .concentration{
     text-align: center;
 }
@@ -24,6 +27,9 @@
 .specialty{
     color: ivory;
     background-color: blue;
+}
+.specialty{
+    list-style: none;
 }
 .about, .skills, .specialty{
     text-align: center;
